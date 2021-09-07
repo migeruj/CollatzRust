@@ -1,0 +1,15 @@
+[package]
+name = "collatz"
+version = "0.1.0"
+authors = ["https://github.com/migeruj"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde = {version = "1", features = ["derive"] }
+serde_json = {version = "1.0.59"}
+serde_derive = "1"
+rayon = "1.5"
+
+
