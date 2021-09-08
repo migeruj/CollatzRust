@@ -25,7 +25,7 @@ This is the JSON struct
 Keys:
 - number: is the evaluted number
 - steps: the n steps that takes to be 1
-- historical: the result vector for every
+- historical: the result vector for every iteration
 
 ### Run it
 
