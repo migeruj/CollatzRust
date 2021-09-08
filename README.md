@@ -27,3 +27,6 @@ Keys:
 - steps: the n steps that takes to be 1
 - historical: the result vector for every
 
+### Run it
+
+Check this repl [Link](https://replit.com/@migeruj/Collatz?v=1)
