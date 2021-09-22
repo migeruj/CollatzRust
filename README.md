@@ -3,7 +3,7 @@
 ### Overview
 The Collatz conjecture is a conjecture in mathematics that concerns sequences. It most know as the 3n+1 Problem.
 
-This Repo is an basic implentation to save (Because sometimes personally i play with this)
+This Repo is an basic implementation to save every iteration in a json file (Because sometimes personally i play with this)
 
 
 ### Output
